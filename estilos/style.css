@@ -1,1 +1,21 @@
 @charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(189, 82, 82);
+}
+
+.navbar {
+    background-color: #b34949;
+}
+
+.quemsomos {
+    background-color: white;
+}
+.margin {
+    padding-top: 50px;
+}
